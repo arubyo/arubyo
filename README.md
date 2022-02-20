@@ -80,10 +80,7 @@
 <h4>Some of my other interests include...</h4>
 :printer: 3D Printing<br>
  :clapper: Movies & :tv: TV<br>
- &nbsp; &nbsp; &nbsp; <i> Just watched: Star Wars: The Empire Strikes Back</i><br>
-&nbsp; &nbsp; &nbsp;<i> Currently watching: Severence on Apple TV</i><br>
 :headphones: Music<br>
-   &nbsp; &nbsp; &nbsp;<i> On repeat: Baguetti - Smino, JID &amp; Kenny beats</i><br>
   :video_game: Playing<br>
 &nbsp; &nbsp; &nbsp; <i>Currently: Skyrim, Harry Potter Lego &amp; Runescape</i><br>
   :black_joker: Laughing at my own jokes
