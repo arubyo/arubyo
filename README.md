@@ -68,7 +68,7 @@
   <td style="width: 116px; text-align: center;"><tt>GIT</tt></td>
   <td style="width: 116px; text-align: center;"><tt>NPM</tt></td>
   <td style="width: 116px; text-align: center;"><tt>CommandLine</tt></td>
-  <td style="width: 273.75px; text-align: center;"><tt>VS Code &amp; Visual Studio 2019</tt></td>
+  <td style="width: 273.75px; text-align: center;"><tt>Visual Studio 2019 && VS Code</tt></td>
   <td style="width: 273.75px; text-align: center;"><tt>Adobe Suite</tt></td>
 </tr>
 </tbody>
@@ -79,7 +79,7 @@
 <hr>
 <h4>Some of my other interests include...</h4>
 :printer: 3D Printing<br>
- :clapper: Movies & :tv: TV<br>
+ :clapper: Movies && :tv: TV<br>
 :headphones: Music<br>
   :video_game: Board Games && Runescape<br>
   :black_joker: Laughing at my own jokes
