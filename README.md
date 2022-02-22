@@ -2,7 +2,7 @@
 <h3><tt>Junior Front End Developer</tt></h3>
 <hr />
 <blockquote>
-<p>Two years ago my IT knowledge extended as far as ... spreadsheets, googling answers when asked to fix friends/family technological problems and my 'coding' ability peaked when I taught myself to edit my MySpace page. Although, I still do the googling, I was encouraged by another to believe in my ability to learn and apply myself in a field that I have always gravitated towards.</p>
+<p>I like asking questions and understanding the why.</p>
 <p>Sometimes it takes another like-minded person to see something in yourself that you don't. I am self taught and always learning.</p>
 </blockquote>
 <h4>What I know..</h4>
@@ -81,8 +81,7 @@
 :printer: 3D Printing<br>
  :clapper: Movies & :tv: TV<br>
 :headphones: Music<br>
-  :video_game: Playing<br>
-&nbsp; &nbsp; &nbsp; <i>Currently: Skyrim, Harry Potter Lego &amp; Runescape</i><br>
+  :video_game: Board Games && Runescape<br>
   :black_joker: Laughing at my own jokes
 
 <br><br>
