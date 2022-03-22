@@ -20,7 +20,7 @@
 </tr>
 </tbody>
 </table>
-<h4>Frameworks</h4>
+<h4>Frameworks & Libraries</h4>
 <table style="height: 66px; width: 463.667px;">
 <tbody>
 <tr>
