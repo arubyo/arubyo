@@ -1,8 +1,8 @@
 <h1 align="left"><strong><tt>Alyssa O'Friel</tt></strong></h1>
-<h3><tt>Junior Front End Developer</tt></h3>
+<h3><tt>Junior Developer</tt></h3>
 <hr />
 <blockquote>
-<p>I like asking questions and understanding the why.</p>
+<p>I like asking questions, understanding the why and if I don't know the answer I'll know how to find out. </p>
 <p>Sometimes it takes another like-minded person to see something in yourself that you don't. I am self taught and always learning.</p>
 </blockquote>
 <h4>What I know..</h4>
