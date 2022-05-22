@@ -9,14 +9,16 @@
 <table style="width: 458.2px;">
 <tbody>
 <tr>
-<td style="width: 13px; text-align: center;" align="center"><img style="float: center;" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/css3.svg" width="32" height="32" /><img style="float: centre; display: block; margin-left: auto; margin-right: auto;" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/html5.svg" width="32" height="32" /></td>
-<td style="width: 14px; text-align: center;" align="center"><img style="float: center;" src="https://unpkg.com/simple-icons@v6/icons/javascript.svg" width="32" height="32" /></td>
-<td style="width: 41.2px; text-align: center;" align="center"><img style="float: center;" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/jquery.svg" width="32" height="32" /></td>
+<td><p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,jquery" />
+  </a>
+</p>
+</td>
+
 </tr>
 <tr>
-<td style="width: 13px; text-align: center;"><tt>HTML/CSS</tt></td>
-<td style="width: 14px; text-align: center;"><tt>Javascript</tt></td>
-<td style="width: 41.2px; text-align: center;"><tt>jQuery</tt></td>
+<td style="text-align: center;"><tt>HTML</tt> <tt>CSS</tt> <tt>Javascript</tt> <tt>jQuery</tt></td>
 </tr>
 </tbody>
 </table>
@@ -24,16 +26,10 @@
 <table style="height: 66px; width: 463.667px;">
 <tbody>
 <tr>
-<td style="width: 149px; text-align: center;" align="center"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/react.svg" width="32" height="32" /></td>
-<td style="width: 149px; text-align: center;" align="center"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/tailwindcss.svg" width="32" height="32" /></td>
-<td style="width: 142.667px; text-align: center;" align="center"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/bootstrap.svg" width="32" height="32" /></td>
+<td style="width: 149px; text-align: center;" align="center"><p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" /></a></p></td>
 </tr>
 <tr>
-<td style="width: 149px; text-align: center;"><tt>React</tt></td>
-<td style="width: 149px; text-align: center;">
-<tt>Tailwind CSS</tt>
-</td>
-<td style="width: 142.667px; text-align: center;">
+<td style="width: 149px; text-align: center;"><tt>React</tt> <tt>Tailwind CSS</tt>
 <tt>Bootstrap</tt>
 </td>
 </tr>
@@ -43,14 +39,17 @@
 <table style="height: 49px;" width="470">
 <tbody>
 <tr>
-<td style="width: 149.333px; text-align: center;" align="center"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/nodedotjs.svg" width="32" height="32" /></td>
-<td style="width: 149.333px; text-align: center;" align="center"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/dotnet.svg" width="32" height="32" /></td>
-<td style="width: 149.333px; text-align: center;" align="center"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/django.svg" width="32" height="32" /></td>
+<td style="width: 149.333px; text-align: center;" align="center">
+    <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,php,mysql,dotnet,django" />
+  </a>
+</p>
+  
+  </td>
 </tr>
 <tr>
-  <td style="width: 149.333px; text-align: center;"><tt>Node.js</tt></td>
-  <td style="width: 149.333px; text-align: center;"><tt>ASP.NET</tt></td>
-  <td style="width: 149.333px; text-align: center;"><tt>Django</tt></td>
+  <td style="width: 149.333px; text-align: center;"><tt>Node.js</tt> <tt>Express</tt> <tt>Mongodb</tt> <tt>PHP</tt> <tt>MySQL</tt> <tt>.NET</tt> <tt>Django</tt></td>
 </tr>
 </tbody>
 </table>
@@ -58,18 +57,19 @@
 <table style="height: 45px; width: 650.75px;">
 <tbody>
 <tr>
-<td style="width: 116px; text-align: center;" align="center"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/git.svg" width="32" height="32" /></td>
-<td style="width: 116px; text-align: center;" align="center"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/npm.svg" width="32" height="32" /></td>
-<td style="width: 116px; text-align: center;" align="center"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/windowsterminal.svg" width="32" height="32" /></td>
-<td style="width: 273.75px; text-align: center;" align="center"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/visualstudio.svg" width="32" height="32" /><img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/visualstudiocode.svg" width="32" height="32" /></td>
-<td style="width: 273.75px; text-align: center;" align="center"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/adobe.svg" width="32" height="32" /></td>
+<td style="width: 116px; text-align: center;" align="center">
+      <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,bash,vscode,wordpress,figma" />
+  </a>
+</p>
+  
+  
+  
+  ></td>
 </tr>
 <tr>
-  <td style="width: 116px; text-align: center;"><tt>GIT</tt></td>
-  <td style="width: 116px; text-align: center;"><tt>NPM</tt></td>
-  <td style="width: 116px; text-align: center;"><tt>CommandLine</tt></td>
-  <td style="width: 273.75px; text-align: center;"><tt>Visual Studio 2019 && VS Code</tt></td>
-  <td style="width: 273.75px; text-align: center;"><tt>Adobe Suite</tt></td>
+  <td style="width: 116px; text-align: center;"><tt>GIT</tt> <tt>Github</tt> <tt>Bash</tt> <tt>VS Code</tt> <tt>Wordpress</tt> <tt>Figma</tt>
 </tr>
 </tbody>
 </table>
@@ -85,4 +85,4 @@
   :black_joker: Laughing at my own jokes
 
 <br><br>
-Icons are from [GitHub - Simple Icons](https://github.com/simple-icons/simple-icons#cdn-usage).
+Icons are from [GitHub - Skill Icon]([https://github.com/tandpfun/skill-icons?ref=reactjsexample.com]).
