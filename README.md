@@ -1,12 +1,21 @@
-<h1 align="left"><strong><tt>Alyssa O'Friel</tt></strong></h1>
-<h3><tt>Junior Developer</tt></h3>
-<hr />
-<blockquote>
-<p>I like asking questions, understanding the why and if I don't know the answer I'll know how to find out. </p>
-<p>Sometimes it takes another like-minded person to see something in yourself that you don't. I am self taught and always learning.</p>
-</blockquote>
-<h4>What I know..</h4>
-<table style="width: 458.2px;">
+<h1>Alyssa O'Friel</h1></th><th><h3>Junior Developer</h3>
+  
+<tt>I like asking questions, understanding the why and considering the impact.</tt><br>
+<tt> I care about others. I am self taught, always learning and never done.</tt><br>
+<tt>Currently working as an SEO developer.</tt>
+     
+<p align="left"><img src="https://github.com/arubyo/images-profile/blob/main/the-castle-serenity.gif" />
+</p>
+    
+
+
+<table>
+<thead>
+  <tr>
+    <th>What I know..</th>
+  </tr>
+</thead>
+
 <tbody>
 <tr>
 <td><p align="center">
@@ -15,31 +24,49 @@
   </a>
 </p>
 </td>
+</tr>
 
-</tr>
 <tr>
-<td style="text-align: center;"><tt>HTML</tt> <tt>CSS</tt> <tt>Javascript</tt> <tt>jQuery</tt></td>
+<td align="center" ><tt>HTML</tt> <tt>CSS</tt> <tt>Javascript</tt> <tt>jQuery</tt></td>
 </tr>
-</tbody>
-</table>
-<h4>Frameworks & Libraries</h4>
-<table style="height: 66px; width: 463.667px;">
-<tbody>
+  
+<thead>
+<tr><th>Frameworks & Libraries</th></tr>
+</thead>
+<tr><td>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" /></a></p>
+</td></tr>
 <tr>
-<td style="width: 149px; text-align: center;" align="center"><p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" /></a></p></td>
-</tr>
-<tr>
-<td style="width: 149px; text-align: center;"><tt>React</tt> <tt>Tailwind CSS</tt>
-<tt>Bootstrap</tt>
+<td  align="center"><tt>React</tt> <tt>Tailwind CSS</tt><tt>Bootstrap</tt>
 </td>
 </tr>
 </tbody>
-</table>
-<h4>Basic understanding of</h4>
-<table style="height: 49px;" width="470">
-<tbody>
+<thead>
+  <tr><th>Tools I use daily</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+<td>
+      <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,bash,vscode,wordpress,figma" />
+  </a>
+</p>  
+  
+  </td>
+</tr>
 <tr>
-<td style="width: 149.333px; text-align: center;" align="center">
+  <td  align="center"><tt>GIT</tt> <tt>Github</tt> <tt>Bash</tt> <tt>VS Code</tt> <tt>Wordpress</tt> <tt>Figma</tt></td>
+</tr>
+  </tbody>
+    <thead>
+    <tr>
+      <th>Basic understanding of</th>
+      </tr>
+  </thead>
+  <tbody>
+    <tr>
+<td align="center">
     <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,php,mysql,dotnet,django" />
@@ -49,40 +76,37 @@
   </td>
 </tr>
 <tr>
-  <td style="width: 149.333px; text-align: center;"><tt>Node.js</tt> <tt>Express</tt> <tt>Mongodb</tt> <tt>PHP</tt> <tt>MySQL</tt> <tt>.NET</tt> <tt>Django</tt></td>
+  <td><tt>Node.js</tt> <tt>Express</tt> <tt>Mongodb</tt> <tt>PHP</tt> <tt>MySQL</tt> <tt>.NET</tt> <tt>Django</tt></td>
 </tr>
 </tbody>
+    
 </table>
-<h4><br />Tools I use daily</h4>
-<table style="height: 45px; width: 650.75px;">
-<tbody>
-<tr>
-<td style="width: 116px; text-align: center;" align="center">
-      <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,bash,vscode,wordpress,figma" />
-  </a>
-</p>
-  
-  
-  
-  ></td>
-</tr>
-<tr>
-  <td style="width: 116px; text-align: center;"><tt>GIT</tt> <tt>Github</tt> <tt>Bash</tt> <tt>VS Code</tt> <tt>Wordpress</tt> <tt>Figma</tt>
-</tr>
+<br>
+<table>
+   <thead>
+      <tr>
+        <th>Things I remind myself of... </th>
+        <th>Other Interests...</th>
+      </tr>
+      </thead>
+    <tbody>
+  <tr>
+    <td>
+    - Never assume<br />- Always ask questions<br />- KISS (keep it simple, stupid)<br />- Remember the common humanity <br /> - Help others along the way </td>
+    <td>
+   - :printer: 3D Printing<br>- :clapper: Movies && :tv: TV<br> - :headphones: Music<br> - :video_game: Board Games && Runescape<br> - :black_joker: Laughing at my own jokes </td>
+  </tr>
 </tbody>
-</table>
-<blockquote><p><br />Things I remind myself of <br />- Never assume<br />- Always ask questions<br />- KISS (keep it simple, stupid)<br />- Find the common humanity <br /><br /> </p></blockquote>
+  </table><br>
 
 
-<hr>
-<h4>Some of my other interests include...</h4>
-:printer: 3D Printing<br>
- :clapper: Movies && :tv: TV<br>
-:headphones: Music<br>
-  :video_game: Board Games && Runescape<br>
-  :black_joker: Laughing at my own jokes
+>Go placidly amid the noise and the haste, and remember what peace there may be in silence... 
+>>
+>>Speak your truth quietly and clearly; and listen to others, even to the dull and the ignorant; they too have their story... 
+>>>
+>>>With all its sham, drudgery and broken dreams, it is still a beautiful world.
+>>>>
+>>>>Max Ehrmann, 1927.
 
-<br><br>
-Icons are from [GitHub - Skill Icon]([https://github.com/tandpfun/skill-icons?ref=reactjsexample.com]).
+
+Icons are from <a href="https://github.com/tandpfun/skill-icons?ref=reactjsexample.com">[GitHub - Skill Icon]</a>.
