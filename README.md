@@ -4,8 +4,6 @@
 <tt> I care about others. I am self taught, always learning and never done.</tt><br>
 <tt>Currently working as an SEO developer.</tt>
      
-<p align="left"><img src="https://github.com/arubyo/images-profile/blob/main/the-castle-serenity.gif" />
-</p>
     
 
 
