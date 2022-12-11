@@ -74,16 +74,14 @@
   </td>
 </tr>
 <tr>
-  <td><tt>Node.js</tt> <tt>Express</tt> <tt>Mongodb</tt> <tt>PHP</tt> <tt>MySQL</tt> <tt>.NET</tt> <tt>AEM</tt><tt>Various CMS'</tt></td>
+  <td><tt>Node.js</tt> <tt>Express</tt> <tt>Mongodb</tt> <tt>PHP</tt> <tt>MySQL</tt> <tt>.NET</tt> <tt>AEM</tt> <tt>Various CMS'</tt></td>
 </tr>
 </tbody>
-    
 </table>
 <br>
 <table>
    <thead>
       <tr>
-     
         <th>Other Interests...</th>
       </tr>
       </thead>
@@ -93,7 +91,7 @@
    - :printer: 3D Printing<br>- :clapper: Movies && :tv: TV<br> - :headphones: Music<br> - :video_game: Board Games && Runescape<br> - :black_joker: Laughing at my own jokes </td>
   </tr>
 </tbody>
-  </table><br>
+</table><br>
 
 
 Icons are from <a href="https://github.com/tandpfun/skill-icons?ref=reactjsexample.com">[GitHub - Skill Icon]</a>.
